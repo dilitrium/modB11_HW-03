@@ -1,0 +1,3 @@
+---
+  deploy:
+      script: 'sh ./sql-request.sh'
